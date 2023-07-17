@@ -5,3 +5,7 @@ Aplikasi Scan QR Barcode<br>
 <br>
 Databases<br>
 <img width="739" alt="tampilan" src="https://github.com/nabilakurniasih99/tugas-pemrog-mobile/blob/main/Databases.png"><br>
+<br>
+<br>
+Tampilan Localhost<br>
+<img width="739" alt="tampilan" src="https://github.com/nabilakurniasih99/tugas-pemrog-mobile/blob/main/lokalhost%20data_siswa.png"><br>
